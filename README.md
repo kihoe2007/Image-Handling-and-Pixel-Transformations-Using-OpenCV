@@ -246,6 +246,8 @@ plt.show()
 
 - **iii)** Modify Image Contrast.
 -  <img width="835" height="228" alt="420662827-998698a5-0d84-4f73-96d6-68421a529951" src="https://github.com/user-attachments/assets/653f919d-04de-48f2-a531-30b2bb80b4a7" />
+<img width="1498" height="1198" alt="image" src="https://github.com/user-attachments/assets/438f13fc-2143-416c-b0ef-2f19aefc2c58" />
+
 - **iv)** Generate Third Image Using Bitwise Operations.
 - 
 <img width="771" height="382" alt="image" src="https://github.com/user-attachments/assets/e7ece0f0-33d2-43b9-92f1-b7731b4f486e" />
