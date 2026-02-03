@@ -234,24 +234,26 @@ plt.show()
 <img width="399" height="520" alt="image" src="https://github.com/user-attachments/assets/d76d75d3-8a06-4365-9c56-fca811594625" />
 
 <img width="782" height="569" alt="image" src="https://github.com/user-attachments/assets/2ce12f24-9afa-444d-99bb-f9760c01cfc5" />
+<img width="750" height="661" alt="image" src="https://github.com/user-attachments/assets/b1cd81ad-880d-469c-aba8-915b50e184ca" />
+<img width="750" height="661" alt="image" src="https://github.com/user-attachments/assets/d8040a56-a16e-4d54-a5bd-a5d00d3b858e" />
 
-<img width="664" height="415" alt="image" src="https://github.com/user-attachments/assets/1fd945be-4725-4064-a982-ba55da8c6abb" />
-<img width="805" height="555" alt="image" src="https://github.com/user-attachments/assets/e9ece4c9-3f80-4a35-8778-ca89c9a1d73a" />
+<img width="684" height="526" alt="image" src="https://github.com/user-attachments/assets/8a3cbdfa-d708-4347-a42d-6efe40c790ef" />
 
 
 
 - **ii)** Adjust Image Brightness.
--  <img width="827" height="244" alt="420662698-f34966ee-21f9-4441-bdd4-36c3da71b89d" src="https://github.com/user-attachments/assets/71c8bf69-5faa-45dc-a6d5-25c099f9d924" />
+- <img width="1197" height="469" alt="image" src="https://github.com/user-attachments/assets/255a35f9-2d14-4ab4-b548-0d7f6c88a143" />
+<img width="693" height="565" alt="image" src="https://github.com/user-attachments/assets/13577e3c-0269-4700-8096-923c1c3c631c" />
+
 
 
 - **iii)** Modify Image Contrast.
--  <img width="835" height="228" alt="420662827-998698a5-0d84-4f73-96d6-68421a529951" src="https://github.com/user-attachments/assets/653f919d-04de-48f2-a531-30b2bb80b4a7" />
+- <img width="1197" height="469" alt="image" src="https://github.com/user-attachments/assets/248174b5-8444-4936-a1d3-fbde61dbc124" />
 <img width="1498" height="1198" alt="image" src="https://github.com/user-attachments/assets/438f13fc-2143-416c-b0ef-2f19aefc2c58" />
 
 - **iv)** Generate Third Image Using Bitwise Operations.
-- 
-<img width="771" height="382" alt="image" src="https://github.com/user-attachments/assets/e7ece0f0-33d2-43b9-92f1-b7731b4f486e" />
-<img width="917" height="482" alt="image" src="https://github.com/user-attachments/assets/a914561f-64a7-4fdb-ba33-6e4a5c35ef41" />
+- <img width="793" height="602" alt="image" src="https://github.com/user-attachments/assets/45209078-8e2c-417b-8944-7033c4cfa85e" />
+  <img width="771" height="382" alt="image" src="https://github.com/user-attachments/assets/e7ece0f0-33d2-43b9-92f1-b7731b4f486e" />
 
 
 ## Result:
